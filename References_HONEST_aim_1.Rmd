@@ -1,0 +1,70 @@
+---
+title: "References HONEST Aim 1"
+author: "Sarah Holzer"
+date: "`r Sys.Date()`"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## References
+
+1.	Aiken LH, Sloane DM, Bruyneel L, Van den Heede K, Griffiths P, Busse R, et al. Nurse staffing and education and hospital mortality in nine European countries: a retrospective observational study. Lancet Lond Engl. 2014 May 24;383(9931):1824–30. 
+2.	Griffiths P, Ball J, Murrells T, Jones S, Rafferty AM. Registered nurse, healthcare support worker, medical staffing levels and mortality in English hospital trusts: a cross-sectional study. BMJ Open. 2016 Feb 9;6(2):e008751. 
+3.	Musy SN, Endrich O, Leichtle AB, Griffiths P, Nakas CT, Simon M. The association between nurse staffing and inpatient mortality: A shift-level retrospective longitudinal study. Int J Nurs Stud. 2021 Aug 1;120:103950. 
+4.	Harvey PR, Trudgill NJ. The association between physician staff numbers and mortality in English hospitals. eClinicalMedicine [Internet]. 2021 Feb 1 [cited 2023 Jul 17];32. Available from: https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(20)30453-3/fulltext
+5.	Willard-Grace R, Knox M, Huang B, Hammer H, Kivlahan C, Grumbach K. Burnout and Health Care Workforce Turnover. Ann Fam Med. 2019 Jan;17(1):36–41. 
+6.	Poon YSR, Lin YP, Griffiths P, Yong KK, Seah B, Liaw SY. A global overview of healthcare workers’ turnover intention amid COVID-19 pandemic: a systematic review with future directions. Hum Resour Health. 2022 Sep 24;20(1):70. 
+7.	Bae SH. Noneconomic and economic impacts of nurse turnover in hospitals: A systematic review. Int Nurs Rev. 2022;69(3):392–404. 
+8.	Pappas MA, Stoller JK, Shaker V, Houser J, Misra‐Hebert AD, Rothberg MB. Estimating the costs of physician turnover in hospital medicine. J Hosp Med. 2022 Oct;17(10):803–8. 
+9.	Tang JHC, Hudson P. Evidence-Based Practice Guideline: Nurse Retention for Nurse Managers. J Gerontol Nurs. 2019 Nov 1;45(11):11–9. 
+10.	Thi Nguyen VA, Könings KD, Scherpbier AJJA, van Merriënboer JJG. Attracting and retaining physicians in less attractive specialties: the role of continuing medical education. Hum Resour Health. 2021 May 19;19:69. 
+11.	de Vries N, Boone A, Godderis L, Bouman J, Szemik S, Matranga D, et al. The Race to Retain Healthcare Workers: A Systematic Review on Factors that Impact Retention of Nurses and Physicians in Hospitals. Inq J Health Care Organ Provis Financ. 2023 Jan 1;60:00469580231159318. 
+12.	Duru DC, Hammoud MS. Identifying effective retention strategies for front-line nurses. Nurs Manag Harrow Lond Engl 1994. 2022 Feb 3;29(1):17–24. 
+13.	OECD. Health at a Glance 2021: OECD Indicators [Internet]. Paris: Organisation for Economic Co-operation and Development; 2021 [cited 2022 Oct 20]. Available from: https://www.oecd-ilibrary.org/social-issues-migration-health/health-at-a-glance-2021_ae3016b9-en
+14.	Singh P, Loncar N. Pay Satisfaction, Job Satisfaction and Turnover Intent. Relat Ind Ind Relat. 2010;65(3):470–90. 
+15.	Steinmetz S, Vries DH de, Tijdens KG. Should I stay or should I go? The impact of working time and wages on retention in the health workforce. Hum Resour Health. 2014 Apr 23;12(1):23. 
+16.	Moscelli G, Sayli M, Mello M. Staff Engagement, Coworkers’ Complementarity and Employee Retention: Evidence from English NHS Hospitals. SSRN Electron J [Internet]. 2022 [cited 2023 Sep 9]; Available from: https://www.ssrn.com/abstract=4247492
+17.	Muench U, Sindelar J, Busch SH, Buerhaus PI. Salary differences between male and female registered nurses in the United States. JAMA. 2015 Mar 24;313(12):1265–7. 
+18.	Frogner BK, Schwartz M. Examining Wage Disparities by Race and Ethnicity of Health Care Workers. Med Care. 2021 Oct;59:S471. 
+19.	Amin S, Uyar B. Pay gap between foreign-born and native-born doctors in the United States. Appl Econ. 2021 Jan 26;53(5):650–62. 
+20.	Hoff T, Lee DR. The gender pay gap in medicine: A systematic review. Health Care Manage Rev. 2021 Jan 29; 
+21.	Lyons NB, Bernardi K, Olavarria OA, Shah P, Dhanani N, Loor M, et al. Gender Disparity Among American Medicine and Surgery Physicians: A Systematic Review. Am J Med Sci. 2021 Feb;361(2):151–68. 
+22.	Treadwell HM. Wages and Women in Health Care: The Race and Gender Gap. Am J Public Health. 2019 Feb;109(2):208–9. 
+23.	Wilson BL, Butler MJ, Butler RJ, Johnson WG. Nursing Gender Pay Differentials in the New Millennium. J Nurs Scholarsh Off Publ Sigma Theta Tau Int Honor Soc Nurs. 2018 Jan;50(1):102–8. 
+24.	Muench U, Busch SH, Sindelar J, Buerhaus PI. Exploring Explanations for the Female-Male Earnings Difference Among Registered Nurses in the United States. Nurs Econ. 2016;34(5):214–23. 
+25.	Ployhart RE, Nyberg AJ, Reilly G, Maltarich MA. Human Capital Is Dead; Long Live Human Capital Resources! J Manag. 2014 Feb 1;40(2):371–98. 
+26.	Becker GS. Human Capital: A Theoretical and Empirical Analysis, with Special Reference to Education [Internet]. Rochester, NY; 1964 [cited 2023 Sep 9]. Available from: https://papers.ssrn.com/abstract=1496221
+27.	Eidgenössisches Departement für, auswärtige Angelegenheiten - EDA. Gesundheitssystem Schweiz [Internet]. [cited 2023 Aug 15]. Available from: https://www.eda.admin.ch/aboutswitzerland/de/home/wirtschaft/soziale-aspekte/gesundheitssystem.html
+28.	Bundesgesetz über den Datenschutz (Datenschutzgesetz, DSG), Artikel 22. 2020. 
+29.	Statistik der stationären Betriebe des Gesundheitswesens, Krankenhaustypologie [Internet]. Neuchâtel: Bundesamt für Statistik - BFS; 2022 [cited 2023 Jul 14]. Available from: https://www.bfs.admin.ch/asset/de/23546402
+30.	Statistik der stationären Betriebe des Gesundheitswesens, Krankenhausstatistik, Detailkonzept [Internet]. 2.1. Neuchâtel: Bundesamt für Statistik - BFS; 2022 [cited 2023 Jan 9]. Available from: https://www.bfs.admin.ch/asset/de/23688667
+31.	Krankenhausstatistik, Anhang I, Fragebogen [Internet]. Bundesamt für Statistik - BFS; 2022 [cited 2023 Jul 14]. Available from: https://dam-api.bfs.admin.ch/hub/api/dam/assets/23688656/bibtex
+32.	Bates D, Mächler M, Bolker B, Walker S. Fitting linear mixed-effects models using lme4 [Internet]. 2021. Available from: https://CRAN.R-project.org/package=lme4
+33.	Stoffel MA, Nakagawa S, Schielzeth H. rptR: repeatability estimation and variance decomposition by generalized linear mixed-effects models. Methods Ecol Evol. 2017;8(11):1639–44. 
+34.	Bliese PD, Halverson RR. Group Size and Measures of Group-Level Properties: An Examination of Eta-Squared and ICC Values. J Manag. 1998 Apr 1;24(2):157–72. 
+35.	R Core Team. R: A language and environment for statistical computing. [Internet]. Vienna, Austria: R Foundation for Statistical Computing; 2021. Available from: https://www.R-project.org/
+36.	Wickham H, François R, Henry L, Müller K, Vaughan D. dplyr: A grammar of data manipulation. 2023. 
+37.	Wickham H, Vaughan D, Girlich M. tidyr: Tidy messy data. 2023. 
+38.	Rich B. table1: Tables of descriptive statistics in HTML [Internet]. 2023. Available from: https://CRAN.R-project.org/package=table1
+39.	Bundesamt für Statistik - BFS. Spitäler [Internet]. [cited 2023 Aug 14]. Available from: https://www.bfs.admin.ch/bfs/de/home/statistiken/gesundheit/gesundheitswesen/spitaeler.html
+40.	Gunawan J, Marzilli C. Senior first, junior second. Nurs Forum (Auckl). 2022;57(1):182–6. 
+41.	De Meulenaere K. The Dilemma between Using Seniority- and Performance-Based Pay to Boost Workforce Labor Productivity. Acad Manag Proc. 2016 Jan;2016(1):13905. 
+42.	Bundesamt für Gesundheit - BAG. Umsetzung Pflegeinitiative (Artikel 117b BV) [Internet]. [cited 2023 Sep 7]. Available from: https://www.bag.admin.ch/bag/de/home/berufe-im-gesundheitswesen/gesundheitsberufe-der-tertiaerstufe/vi-pflegeinitiative.html
+43.	Der Bundesrat, Das Portal der Schweizer Regierung [Internet]. [cited 2023 Sep 11]. Bundesrat will die Ausbildungsoffensive im Pflegebereich Mitte 2024 starten. Available from: https://www.admin.ch/gov/de/start/dokumentation/medienmitteilungen.msg-id-97443.html
+44.	Bundesamt für Gesundheit - BAG. Strategie gegen den Ärztemangel [Internet]. [cited 2023 Sep 20]. Available from: https://www.bag.admin.ch/bag/de/home/berufe-im-gesundheitswesen/medizinalberufe/medizinische-grundversorgung/strategie-gegen-aerztemangel.html
+45.	Boniol M, McIsaac M, Xu L, Wuliji T, Diallo K, Campbell J. Gender equity in the health workforce: Analysis of 104 countries. 
+46.	Federal Statistical Office - FSO. Wage gap [Internet]. [cited 2023 Sep 11]. Available from: https://www.bfs.admin.ch/bfs/en/home/statistiken/arbeit-erwerb/loehne-erwerbseinkommen-arbeitskosten/lohnniveau-schweiz/lohnunterschied.html
+47.	Moore J, Continelli T. Racial/Ethnic Pay Disparities among Registered Nurses (RNs) in U.S. Hospitals: An Econometric Regression Decomposition. Health Serv Res. 2016 Apr;51(2):511–29. 
+48.	McGinnis SL, Moore J. An Analysis of Racial/Ethnic Pay Disparities Among Hospital Nurses in New York City. Policy Polit Nurs Pract. 2009 Nov 1;10(4):252–8. 
+49.	Needleman J, Buerhaus P, Mattke S, Stewart M, Zelevinsky K. Nurse-Staffing Levels and the Quality of Care in Hospitals. N Engl J Med. 2002 May 30;346(22):1715–22. 
+50.	Needleman J. Nursing skill mix and patient outcomes. BMJ Qual Saf. 2017 Jul;26(7):525–8. 
+51.	Aiken LH, Sloane D, Griffiths P, Rafferty AM, Bruyneel L, McHugh M, et al. Nursing skill mix in European hospitals: cross-sectional study of the association with mortality, patient ratings, and quality of care. BMJ Qual Saf. 2017 Jul 1;26(7):559–68. 
+52.	Schweizerisches Institut für ärztliche Weiter- und Fortbildun. SIWF, ISFM (FMH). [cited 2023 Sep 20]. Weiterbildung. Available from: https://www.siwf.ch/weiterbildung.cfm
+53.	Arbeitssituation der Assistenz- und Oberärztinnen und -ärzte, Mitgliederbefragung 2023 - im Auftrag des Verbands Schweizerischer Assistenz-und Oberärztinnen und -ärzte (vsao) [Internet]. Verband Schweizerischer Assistenz-und Oberärztinnen und -ärzte (vsao); Available from: https://vsao.ch/wp-content/uploads/2023/05/Mitgliederbefragung-VSAO-2023-Management-Summary_DE_final.pdf
+54.	Elliott RF, Ma AHY, Scott A, Bell D, Roberts E. Geographically differentiated pay in the labour market for nurses. J Health Econ. 2007 Jan 1;26(1):190–212. 
+55.	Ikki Y, Yamada M, Sekine M. Regional disparity of certified teaching hospitals on physicians’ workload and wages, and popularity among medical students in Japan. Environ Health Prev Med. 2021 Jul 20;26(1):75. 
+56.	Combes JB, Delattre E, Elliott B, Skåtun D. Hospital staffing and local pay: an investigation into the impact of local variations in the competitiveness of nurses’ pay on the staffing of hospitals in France. Eur J Health Econ HEPAC Health Econ Prev Care. 2015 Sep;16(7):763–80. 
+
